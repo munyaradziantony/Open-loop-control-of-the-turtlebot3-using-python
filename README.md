@@ -1,13 +1,13 @@
-# enpm662_project0
-Open loop control of the turtlebot3 using python
-
+# Open loop control of the turtlebot3 using python
+	enpm662_project0
+	
 System Specifications
 ===================================================================================================
 Operating System: Ubuntu 22.04
 ROS2 Distribution: ROS2 Humble
 ====================================================================================================
 1.	TurtleBot3 Packages: 
-	Open the commandprompt by ctrl + alt + T
+	Open the command prompt by ctrl + alt + T
 	Do the following in the command interface 
 
 		cd testWS/ && mkdir src
